@@ -4,7 +4,7 @@ This Python script simulates mouse movement at regular intervals to keep your sc
 
 ## Features
 
-- Moves the mouse cursor slightly every 2 minutes
+- Moves the mouse cursor slightly every 1 minute
 - Provides a simple GUI with START and STOP buttons to control the mouse movement
 - Displays the count of mouse movement occurrences
 - Shows the current status ("Running" or "Stopped") at the top of the window

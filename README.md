@@ -19,7 +19,7 @@ This Python script simulates mouse movement at regular intervals to keep your sc
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/mouse-movement-simulator.git](https://github.com/your-username/mouse-movement-simulator.git)
+   git clone [https://github.com/nishande/Mouse-Movement-Simulator.git](https://github.com/nishande/Mouse-Movement-Simulator.git)
     ```
 2. Navigate to the project directory:
 
